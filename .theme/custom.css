@@ -1,0 +1,35 @@
+.v-application {
+  font-family: monospace;
+}
+
+small{
+  font-family: monospace;
+}
+
+text-no-wrap {
+    font-family: monospace;
+}
+
+.v-toolbar__title {
+  color:gold;
+  font-family: monospace;
+  font-weight: 1000;
+  font-variant-caps: small-caps;
+  text-shadow: 1px 1px 10px red;
+}
+
+.menu-item-title {
+  color:gold;
+  font-family: monospace;
+  font-weight: 1000;
+  font-variant-caps: small-caps;
+  text-shadow: 1px 1px 10px red;
+}
+
+
+.v-btn__content {
+  font-family: monospace;
+  font-weight: 1000;
+  font-variant-caps: small-caps;
+  text-shadow: 1px 1px 10px;
+}
