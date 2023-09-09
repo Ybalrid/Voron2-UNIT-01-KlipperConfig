@@ -24,6 +24,7 @@ text-no-wrap {
   font-weight: 1000;
   font-variant-caps: small-caps;
   text-shadow: 1px 1px 10px red;
+  backdrop-filter: blur(5px);
 }
 
 
