@@ -2,7 +2,7 @@
 
 This is the configuration files for *my* specific Voron2 build. Putting it out there for reference, and backup.
 
-The machine was built from an LDO v2.4 359 Rev C kit. But using an Orange Pi 3 LTS as the Klipper host. 
+The machine was built from an LDO v2.4 350 Rev C kit. But using an Orange Pi 3 LTS as the Klipper host. 
 Instead of using the BTT touchscreen, I use one from waveshare + flat ribbon HDMI and USB cables.
 
 
