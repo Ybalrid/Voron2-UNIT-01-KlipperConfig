@@ -17,6 +17,7 @@ Here's a list of mods that *impact the operation of the machine* (require config
 - Chamber Thermistor
 - Ellis' Bed Fans
 - BTT KNOMI
+- Galileo2 Extruder
 
 Not installed on the machine all the time, I have 2 ADXL tools in this config:
 
