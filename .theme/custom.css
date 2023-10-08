@@ -1,3 +1,21 @@
+/*https://www.cdnfonts.com/seven-segment.font*/
+@font-face {
+    font-family: sevenseg;
+    src: url(SevenSegment.ttf);
+}
+input
+{
+  font-family: sevenseg;
+}
+
+
+td.current, td.target, td.state
+{
+  font-family: sevenseg;
+  color:gold;
+  font-weight: bold;
+}
+
 .v-application {
   font-family: monospace;
 }
