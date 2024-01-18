@@ -28,3 +28,8 @@ Nowadays I use the nozzle one when I want to do resonance testing.
 
 I have a Logitech C615 webcam installed inside my chamber. 
 I have re-shelled the PCB of the webcam inside a custom 3d pritned part, but I am not happy enough with it to share it (just yet)
+
+
+## Mainsail
+
+I run Mainsail on my Voron 2.4. The machine color scheme (and few added stickers) reference the Evangelion Unit-01 from Neon Genesis Evangelion. There is some custom CSS and pictures to apply *some* theming to the Mainsail UI, including a 7 segment font for some of the numerical indicators 
