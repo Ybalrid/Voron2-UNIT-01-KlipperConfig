@@ -17,6 +17,7 @@ Here's a list of mods that *impact the operation of the machine* (require config
 - Ellis' Bed Fans
 - BTT KNOMI running [this](https://github.com/Ybalrid/KNOMI-UNIT-01) customized firmware
 - Galileo2 Extruder
+- RefillPlease filament runout sensor
 
 Not installed on the machine all the time, I have 2 ADXL tools in this config:
 
@@ -65,7 +66,7 @@ I use [KIAUH](https://github.com/dw-0/kiauh) and will just install via this mean
 - Crowsnest
 - Mobileraker companion
 
-Then, the following klipper plugins, following their README
+Then, adding the following klipper plugins, following their README
 
 - [sonar](https://github.com/mainsail-crew/sonar)
 - [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)

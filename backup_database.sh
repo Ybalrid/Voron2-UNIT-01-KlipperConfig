@@ -11,4 +11,4 @@ cp printer_data/database/* ${todays_path}
 
 echo "We wrote the files in ${todays_path}"
 
-#TODO For now this is just putting the backup on another folder in the home directory that I will `scp` from, and clear out by hand. 
+cp -r ${todays_path} /mnt/bedwyr/ybalrid/backups/voron
