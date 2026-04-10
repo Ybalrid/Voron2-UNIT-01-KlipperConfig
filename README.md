@@ -64,7 +64,7 @@ I use [KIAUH](https://github.com/dw-0/kiauh) and will just install via this mean
 - Mainsail
 - KlipperScreen
 - Crowsnest
-- Mobileraker companion
+- ~~Mobileraker companion~~ This seems to not be part of KIAUH now. Need to upate these instructions.
 
 Then, adding the following klipper plugins, following their README
 
