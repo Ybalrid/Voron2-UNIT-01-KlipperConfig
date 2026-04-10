@@ -34,6 +34,23 @@ I have re-shelled the PCB of the webcam inside a custom 3d printed part, but I a
 
 I run Mainsail on my Voron 2.4. The machine color scheme (and a few added stickers) references the Evangelion Unit-01 from Neon Genesis Evangelion. There are some custom CSS and pictures to apply *some* theming to the Mainsail UI, including a 7-segment font for some of the numerical indicators.
 
+## Bullseye configuration
+
+### Repository
+
+The backports repo is now offline, just remove it from the sources.list
+
+### cpufrequtils
+
+There are power (and even heat) issues running this board at 1.8ghz. edit `/etc/defautls/cpufrequtils` with the follwing:
+
+```ini
+ENABLE=true
+MIN_SPEED=480000
+MAX_SPEED=1608000
+GOVERNOR=ondemand
+```
+
 ## Restoring configuration
 
 I had one catastrophic failure of the Linux install inside this printer corrupting its filesystem making it not bootable anymore.
