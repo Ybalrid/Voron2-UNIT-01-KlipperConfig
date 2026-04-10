@@ -59,12 +59,15 @@ This machine runs on an Orange Pi 3 LTS. The OS I use is Armbian, specifically [
 
 I use [KIAUH](https://github.com/dw-0/kiauh) and will just install via this means the following components:
 
+#### From the Install menu, in order:
 - Klipper
 - Moonraker
 - Mainsail
 - KlipperScreen
 - Crowsnest
-- ~~Mobileraker companion~~ This seems to not be part of KIAUH now. Need to upate these instructions.
+
+#### From the Extensions menu:
+- Mobileraker
 
 Then, adding the following klipper plugins, following their README
 
