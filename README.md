@@ -44,7 +44,7 @@ I have taken notes on how I got things back up and working.
 
 The actual configuration of the printer is this GIT repository. Alongside it, Moonraker keeps stats and settings inside a database. 
 
-This database, I have a cron job take a daily backup into another folder in the home directory. This folder should be copied somewhere (my NAS).
+This database, I have a cron job take a daily backup into a NFS share that is sitting on my NAS. I have a daily copy of these files, which is more than enough, considering I do not use the printer every day!
 
 ### Basic OS install.
 
