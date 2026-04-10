@@ -48,7 +48,7 @@ This database, I have a cron job take a daily backup into a NFS share that is si
 
 ### Basic OS install.
 
-This machine runs on an Orange Pi 3 LTS. The OS I use is Armbian, specifically [*whatever is the current minimal Debian based version downloadable here*](https://www.armbian.com/orangepi3-lts/)
+This machine runs on an Orange Pi 3 LTS. The OS I use is Armbian, bullseye. Kernel newer than 5.15 do not work well on this board. I don't care why, I just keep using an older version.
 
 - Download the image
 - Use a software like Balena Etcher to install it to the micro SD card
